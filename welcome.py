@@ -1,2 +1,2 @@
 print("Welcome to my first git tutorial")
-print("welcome to santhosh")
+print("welcome to Git")
